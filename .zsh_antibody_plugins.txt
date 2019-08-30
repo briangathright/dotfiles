@@ -37,10 +37,8 @@ robbyrussell/oh-my-zsh path:plugins/gitfast
 MichaelAquilina/zsh-you-should-use
 
 # Theme
-robbyrussell/oh-my-zsh path:themes/theunraveler.zsh-theme
+SalomonSmeke/oh-my-zsh path:themes/sorin.zsh-theme
 
 # Neat
 robbyrussell/oh-my-zsh path:plugins/wd
 
-# Testing
-# paulmelnikow/zsh-startup-timer
